@@ -1,0 +1,1 @@
+Sistema que permite manejar las funcionalidades de una clínica, la agenda de los médicos, las citas, pacientes, empleados, áreas.
